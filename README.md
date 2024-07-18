@@ -20,4 +20,5 @@ Users can change their ATM PIN to ensure the security of their account.
 Users can view a history of their transactions, including deposits, withdrawals, and balance inquiries.
 
 **OUTPUT**
+
 ![image](https://github.com/user-attachments/assets/d9fcd3e1-e06e-45c4-af0c-b6179aecfdaf)
