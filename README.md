@@ -1,7 +1,7 @@
-# ATM SIMULATION
+# ATM Simulation
 This project is an ATM (Automated Teller Machine) simulation that allows users to perform various banking operations such as balance inquiry, cash withdrawal, cash deposit, PIN change, and transaction history review.
 
-# FEATURES
+# Features
 ➡ Balance Inquiry
  : Users can check their current account balance at any time.
 
@@ -17,6 +17,6 @@ This project is an ATM (Automated Teller Machine) simulation that allows users t
 ➡ Transaction History
  : Users can view a history of their transactions, including deposits, withdrawals, and balance inquiries.
 
-# OUTPUT
+# Output
 
 ![image](https://github.com/user-attachments/assets/cb7e9a8d-ecac-44fb-a560-63c3068776d6)
